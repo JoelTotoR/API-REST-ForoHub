@@ -225,6 +225,12 @@ http://localhost:8080/usuarios/3
 
 #####  Respuesta: (204 - No Content)
 
+## Diagrama base de datos
+
+<div align="center">
+<img src="https://github.com/JoelTotoR/API-REST-ForoHub/blob/main/diagrama_base_de_datos_forohub.png" alt="diagrama base de datos foro hub" width="500">
+</div>
+
 ## Folow me
 <div class="redes" align="center">
     <a href="https://www.facebook.com/profile.php?id=100005125908086&mibextid=ZbWKwL" target="_blank" title="Facebook"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"></a>
